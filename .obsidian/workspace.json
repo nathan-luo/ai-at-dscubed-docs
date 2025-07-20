@@ -22,6 +22,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "4517592fda1e5722",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73fdb59cb7eff2c8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Welcome 2025-07-20 15.26.13.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Welcome 2025-07-20 15.26.13.excalidraw"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,11 +183,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f177553abc58dc9",
+  "active": "73fdb59cb7eff2c8",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "Excalidraw/Welcome 2025-07-20 15.26.13.excalidraw.md",
+    "Excalidraw"
   ]
 }
