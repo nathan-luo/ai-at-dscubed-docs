@@ -1,6 +1,6 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "01 Vault",
-  "showUnsupportedFiles": false,
+  "showUnsupportedFiles": true,
   "attachmentFolderPath": "02 Media"
 }
