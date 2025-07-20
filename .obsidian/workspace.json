@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Vault/Welcome.md",
+                "file": "09 Template/init.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "init"
             }
           },
           {
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Vault/Welcome.md",
+                "file": "09 Template/init.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for init"
             }
           },
           {
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Vault/Welcome.md",
+                "file": "09 Template/init.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of init"
             }
           }
         ]
@@ -193,6 +193,11 @@
   },
   "active": "73fdb59cb7eff2c8",
   "lastOpenFiles": [
+    "05 Export/init.md",
+    "09 Template/init.md",
+    "04 Daily Notes/init.md",
+    "02 Media/init.md",
+    "01 Vault/Welcome.md",
     "02 Excalidraw/From Cloud 2025-03-18-1943.excalidraw",
     "01 Vault/Overall Architecture.md",
     "02 Excalidraw/From Cloud 2025-03-18-1943.png",
@@ -204,7 +209,6 @@
     "04 Daily Notes",
     "05 Export",
     "01 Vault",
-    "01 Vault/Welcome.md",
     "02 Excalidraw"
   ]
 }
